@@ -1,1 +1,2 @@
-import 'lib/gestor_inventario.dart';
+import 'lib/gestor_inv.dart';
+
